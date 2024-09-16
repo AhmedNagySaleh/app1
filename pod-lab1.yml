@@ -1,0 +1,8 @@
+appVersion: v1
+kind: Pod
+metadata:
+  name: lab1
+specs:
+  containers:
+  - name: lab1
+  image: httpd
